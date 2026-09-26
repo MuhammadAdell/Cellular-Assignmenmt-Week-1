@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# IDE settings
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Python distribution files
+*.egg-info/
+dist/
+build/
+
+# Large model files
+*.pt
+*.pth
+*.pkl
+*.joblib
+
+# Environment variables / secrets
+.env

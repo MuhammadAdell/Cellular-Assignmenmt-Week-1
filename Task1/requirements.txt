@@ -1,0 +1,9 @@
+# Cellula Task 1 - Toxic content classification app
+streamlit>=1.30
+torch>=2.0
+transformers>=4.40
+peft>=0.10
+pandas>=2.0
+scikit-learn>=1.3
+Pillow>=10.0
+matplotlib>=3.7

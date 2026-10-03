@@ -1,0 +1,18 @@
+{
+  "head_type": "lstm",
+  "classes": [
+    "Child Sexual Exploitation",
+    "Elections",
+    "Non-Violent Crimes",
+    "Safe",
+    "Sex-Related Crimes",
+    "Suicide & Self-Harm",
+    "Unknown S-Type",
+    "Violent Crimes",
+    "unsafe"
+  ],
+  "max_len": 96,
+  "hidden_dim": 128,
+  "base_model": "distilbert-base-uncased",
+  "test_macro_f1": 0.9084702754198464
+}
